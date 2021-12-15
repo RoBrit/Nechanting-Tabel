@@ -12,7 +12,7 @@ buildscript {
     }
 }
 
-archivesBaseName = 'Nechanting Tabel' // Mod ID
+archivesBaseName = 'NechantingTabel' // Mod ID
 group = 'com.robrit.nechantingtabel' // Mod Package
 version = "${minecraft_version}-${mod_version}" // Mod Version
 
