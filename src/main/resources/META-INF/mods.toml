@@ -1,0 +1,10 @@
+modLoader="javafml"
+loaderVersion="[39,)"
+license="All rights reserved"
+[[mods]]
+modId="nechantingtabel"
+version="${file.jarVersion}"
+displayName="Nechanting Tabel"
+logoFile="logo.png"
+authors="RoBrit"
+description="Now you can disenchant all those useless tools and armor. Infinite value!"

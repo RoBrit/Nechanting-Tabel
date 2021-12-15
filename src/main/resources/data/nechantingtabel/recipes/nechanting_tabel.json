@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " * ",
+    "E#E",
+    "EEE"
+  ],
+  "key": {
+    "*": {
+      "item": "minecraft:nether_star"
+    },
+    "#": {
+      "item": "minecraft:enchanting_table"
+    },
+    "E": {
+      "item": "minecraft:end_stone"
+    }
+  },
+  "result": {
+    "item": "nechantingtabel:nechanting_tabel",
+    "count": 1
+  }
+}
